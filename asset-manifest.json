@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WitcherPocker/static/css/main.12324ef5.css",
-    "main.js": "/WitcherPocker/static/js/main.a6763d49.js",
-    "static/media/coin.svg": "/WitcherPocker/static/media/coin.d283b3b644267d657e3188ce12f8a0d8.svg",
-    "static/media/book.svg": "/WitcherPocker/static/media/book.cef7f3c5c936b7d1264fb15aef281104.svg",
-    "static/media/exit.svg": "/WitcherPocker/static/media/exit.73fc41e426ec3d0dbe372471d17efbcd.svg",
-    "static/media/constructor.svg": "/WitcherPocker/static/media/constructor.765f6c70115cd36337d2f2b04eb76057.svg",
-    "index.html": "/WitcherPocker/index.html",
-    "main.12324ef5.css.map": "/WitcherPocker/static/css/main.12324ef5.css.map",
-    "main.a6763d49.js.map": "/WitcherPocker/static/js/main.a6763d49.js.map"
+    "main.css": "/static/css/main.12324ef5.css",
+    "main.js": "/static/js/main.ab8b3078.js",
+    "static/media/coin.svg": "/static/media/coin.b14d6ae28fc916926804be59faf64572.svg",
+    "static/media/book.svg": "/static/media/book.0f4380837a0503c3712842060896e3f4.svg",
+    "static/media/exit.svg": "/static/media/exit.44e7020146f8d55c798610e61ce30a9c.svg",
+    "static/media/constructor.svg": "/static/media/constructor.280c1b8aae4b097edee4c886e7db78d6.svg",
+    "index.html": "/index.html",
+    "main.12324ef5.css.map": "/static/css/main.12324ef5.css.map",
+    "main.ab8b3078.js.map": "/static/js/main.ab8b3078.js.map"
   },
   "entrypoints": [
     "static/css/main.12324ef5.css",
-    "static/js/main.a6763d49.js"
+    "static/js/main.ab8b3078.js"
   ]
 }
