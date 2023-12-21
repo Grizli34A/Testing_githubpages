@@ -29,7 +29,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://grizli34a.github.io/WitcherPocker",
+  "homepage": "https://github.com/WitcherPocker",
   "browserslist": {
     "production": [
       ">0.2%",
