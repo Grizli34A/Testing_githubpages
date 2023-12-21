@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WitcherPocker/static/css/main.12324ef5.css",
+    "main.js": "/WitcherPocker/static/js/main.a6763d49.js",
+    "static/media/coin.svg": "/WitcherPocker/static/media/coin.d283b3b644267d657e3188ce12f8a0d8.svg",
+    "static/media/book.svg": "/WitcherPocker/static/media/book.cef7f3c5c936b7d1264fb15aef281104.svg",
+    "static/media/exit.svg": "/WitcherPocker/static/media/exit.73fc41e426ec3d0dbe372471d17efbcd.svg",
+    "static/media/constructor.svg": "/WitcherPocker/static/media/constructor.765f6c70115cd36337d2f2b04eb76057.svg",
+    "index.html": "/WitcherPocker/index.html",
+    "main.12324ef5.css.map": "/WitcherPocker/static/css/main.12324ef5.css.map",
+    "main.a6763d49.js.map": "/WitcherPocker/static/js/main.a6763d49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12324ef5.css",
+    "static/js/main.a6763d49.js"
+  ]
+}
